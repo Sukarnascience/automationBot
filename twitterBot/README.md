@@ -1,6 +1,3 @@
-<h1 align="center">Hi</h1>
-<br>
-
 ## Setup :
 > Note: Python 3.x above should be install
   * Windows User :
