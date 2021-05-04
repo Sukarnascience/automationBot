@@ -7,4 +7,4 @@
 # Example:
 # 14:56,15:57,MeetingBot,123456789,wxyzasdc
 # Write your meeting details down:
-13:05,13:08,Sukarna Jana,9811483231,w4nBPt
+13:05,13:08,Sukarna Jana,123456789,wxyzasdc
