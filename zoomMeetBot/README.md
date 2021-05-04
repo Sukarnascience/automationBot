@@ -5,7 +5,7 @@
 * Lunix User :
   * [setupBot.sh](https://github.com/Sukarnascience/automationBot/blob/main/zoomMeetBot/setupBot.sh)
 > Note: to start the script file u need to go to terminal
-> and type ```chmod +x TweetBot.sh``` then you can run by
-> ```./ TweetBot.sh```
+> and type ```chmod +x setupBot.sh``` then you can run by
+> ```./ setupBot.sh```
 * Mac User :
 > i will update soon
