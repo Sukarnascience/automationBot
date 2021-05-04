@@ -1,0 +1,10 @@
+# it's the Schedule Timings file which will
+# help your bot to know the timming of meeting
+# and join and leave the meeting as per 
+# schedule...
+# [ joining time ],[ leaving time ],[ your name ],[ meeting ID ],[ meeting password ]
+#     HH:MM 24h       HH:MM 24h      <your name>  <123xxxxxxx28>    <abcd12xxxx...>
+# Example:
+# 14:56,15:57,MeetingBot,123456789,wxyzasdc
+# Write your meeting details down:
+13:05,13:08,Sukarna Jana,9811483231,w4nBPt
