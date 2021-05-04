@@ -1,9 +1,9 @@
 ## Setup :
 > Note: Python 3.x above should be install
 * Windows User :
-  * [attendZoomMeet.exe]()
+  * [ZoomMeetBot.exe]()
 * Lunix User :
-  * [attendZoomMeet.sh]()
+  * [ZoomMeetBot.sh]()
 > Note: to start the script file u need to go to terminal
 > and type ```chmod +x TweetBot.sh``` then you can run by
 > ```./ TweetBot.sh```
