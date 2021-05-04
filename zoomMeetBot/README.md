@@ -3,7 +3,7 @@
 * Windows User :
   * [ZoomMeetBot.exe]()
 * Lunix User :
-  * [setupBot.sh](https://github.com/Sukarnascience/automationBot/blob/main/zoomMeetBot/setupBot.sh)
+  * [setupBot.sh](setupBot.sh)
 > Note: to start the script file u need to go to terminal
 > and type ```chmod +x setupBot.sh``` then you can run by
 > ```./ setupBot.sh```
